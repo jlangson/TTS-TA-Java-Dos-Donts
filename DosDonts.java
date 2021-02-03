@@ -11,6 +11,13 @@ public class DosDonts {
     }
 }
 
+//proper indentation for a loop
+for(int i=0; i < arr.size(); i++){
+    System.out.println("i is " + i);
+    if(i > 5){
+        System.out.println("i is greater than 5");
+    }
+}
 
 //indented too far and inconsistent
 import java.util.*;
