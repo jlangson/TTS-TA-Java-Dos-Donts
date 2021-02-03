@@ -6,7 +6,7 @@ package mypackage;
 public class DosDonts {
     //this is indented once
     public static void main(String args[]) {
-        // TODO code application logic here
+        int x = 0;
     }
 }
 
@@ -16,9 +16,9 @@ import java.util.*;
 package mypackage;
 public class DosDonts {
 
-        //this is indented two times
+        //main is indented two times
         public static void main(String args[]) {
-            // TODO code application logic here
+            int x =0; //this line is indented correctly
         }
 }
 
