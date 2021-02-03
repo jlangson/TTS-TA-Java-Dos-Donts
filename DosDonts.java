@@ -11,14 +11,24 @@ public class DosDonts {
 }
 
 
-//indented too far
+//indented too far and inconsistent
 import java.util.*;
 package mypackage;
 public class DosDonts {
 
         //main is indented two times
         public static void main(String args[]) {
-            int x = 0; //this line is indented correctly
+            int x = 0; //this line is indented once
+        }
+}
+
+//too much indentation
+import java.util.*;
+package mypackage;
+public class DosDonts {
+       //main is indented twice
+        public static void main(String args[]) {
+                int x = 0; //this is also indented twice
         }
 }
 
