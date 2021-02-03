@@ -30,7 +30,7 @@ public boolean numberGreaterThanSix(int number){
 }
 //Redundant . Don't do this
 public boolean numberGreaterThanSix(int number){
-    if(number > 6){
+    if (number > 6){
       return true;
     } else {
       return false;
@@ -40,7 +40,7 @@ public boolean numberGreaterThanSix(int number){
 //more examples
 //Good
 public void hashMapThingy(String key, HashMap<String,String> map){
-    if(map.contains(key)){
+    if (map.contains(key)){
         // do stuff
      } else {
         //do other stuff
@@ -48,7 +48,7 @@ public void hashMapThingy(String key, HashMap<String,String> map){
 }
 //redundant, do not do this
 public void hashMapThingy(String key, HashMap<String,String> map){
-    if(map.contains(key)==true){
+    if (map.contains(key)==true){
         // do stuff
      } else {
         //do other stuff
