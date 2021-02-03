@@ -3,6 +3,7 @@
 //Acceptable indentation
 import java.util.*;
 package mypackage;
+
 public class DosDonts {
     //this is indented once
     public static void main(String args[]) {
@@ -14,6 +15,7 @@ public class DosDonts {
 //indented too far and inconsistent
 import java.util.*;
 package mypackage;
+
 public class DosDonts {
 
         //main is indented two times
@@ -25,6 +27,7 @@ public class DosDonts {
 //too much indentation
 import java.util.*;
 package mypackage;
+
 public class DosDonts {
        //main is indented twice
         public static void main(String args[]) {
