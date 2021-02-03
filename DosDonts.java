@@ -54,3 +54,11 @@ public void hashMapThingy(String key, HashMap<String,String> map){
         //do other stuff
     }
 }
+
+//=========================
+//Spacing around brackets
+//good
+myArray[i];
+
+//avoid
+myArray[ i ];
