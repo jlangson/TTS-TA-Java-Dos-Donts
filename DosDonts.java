@@ -18,7 +18,7 @@ public class DosDonts {
 
         //main is indented two times
         public static void main(String args[]) {
-            int x =0; //this line is indented correctly
+            int x = 0; //this line is indented correctly
         }
 }
 
